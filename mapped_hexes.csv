@@ -1,0 +1,756 @@
+,zip,city,x,y
+0,98065,Snoqualmie,-10,15
+1,98577,Raymond,-92,-42
+2,98506,Olympia,-70,-15
+3,98857,Warden,52,6
+4,98092,Auburn,-22,-3
+5,99003,Chattaroy,92,18
+6,98837,Moses Lake,48,6
+7,98592,Union,-62,9
+8,98025,Hobart,-12,0
+9,98364,Port Gamble,-34,15
+10,98561,Menlo,-94,-45
+11,98926,Ellensburg,32,0
+12,98511,Tumwater,-78,-27
+13,99330,Eltopia,54,-3
+14,98455,Tacoma,-30,9
+15,98225,Bellingham,-32,78
+16,99016,Greenacres,112,6
+17,98248,Ferndale,-48,90
+18,99337,Kennewick,46,-15
+19,98063,Federal Way,-8,6
+20,98238,Conway,-42,75
+21,98014,Carnation,-14,21
+22,99008,Edwall,72,12
+23,98554,Lebam,-90,-45
+24,98908,Yakima,36,-6
+25,98335,Gig Harbor,-48,6
+26,98852,Stehekin,22,21
+27,98263,Lyman,-34,87
+28,98687,Vancouver,-24,-60
+29,99163,Pullman,84,-12
+30,99113,Colton,82,-15
+31,98498,Lakewood,-52,-24
+32,99011,Fairchild Air Force Base,80,12
+33,99157,Northport,62,45
+34,98354,Milton,-30,-3
+35,98597,Yelm,-54,-3
+36,98222,Blakely Island,-50,81
+37,98267,Marblemount,-2,57
+38,98136,Seattle,-26,33
+39,98342,Indianola,-40,12
+40,98260,Langley,-44,66
+41,99353,West Richland,34,-15
+42,99102,Albion,82,-9
+43,98224,Baring,-8,30
+44,98178,Seattle,-24,12
+45,98951,Wapato,26,-9
+46,98550,Hoquiam,-80,6
+47,98943,South Cle Elum,26,3
+48,98649,Toutle,-32,-36
+49,99136,Hay,70,3
+50,98133,Seattle,-40,42
+51,98830,Mansfield,44,12
+52,98450,Tacoma,-12,-18
+53,98433,Tacoma,-56,-30
+54,98134,Seattle,-38,21
+55,98056,Renton,-20,12
+56,98033,Kirkland,-28,30
+57,98404,Tacoma,-32,-18
+58,98602,Appleton,-20,-36
+59,98418,Tacoma,-8,-18
+60,98022,Enumclaw,-16,-6
+61,98252,Granite Falls,-14,39
+62,98171,Seattle,0,0
+63,99203,Spokane,86,-3
+64,99161,Palouse,94,-9
+65,98228,Bellingham,-22,75
+66,98145,Seattle,-2,9
+67,98629,La Center,-28,-54
+68,98275,Mukilteo,-40,60
+69,98184,Seattle,6,3
+70,98655,Hazel Dell North,-30,-69
+71,99019,Liberty Lake,116,6
+72,98061,Rollingbay,-42,9
+73,98038,Maple Valley,-16,0
+74,98108,Seattle,-36,18
+75,98599,Olympia,-68,-36
+76,99104,Belmont,90,-9
+77,98191,Seattle,-6,9
+78,98116,Seattle,-24,36
+79,98824,George,42,3
+80,98497,Lakewood,-26,3
+81,98036,Lynnwood,-44,48
+82,98361,Packwood,-22,-27
+83,98011,Bothell,-32,36
+84,99180,Usk,88,24
+85,98603,Ariel,-32,-42
+86,98756,Ranier,-68,-24
+87,98027,Issaquah,-16,12
+88,98266,Maple Falls,-26,87
+89,98442,Tacoma,-34,-9
+90,98127,Seattle,-46,33
+91,98243,Deer Harbor,-58,81
+92,99213,Spokane,104,6
+93,98540,East Olympia,-64,-30
+94,98274,Mount Vernon,-40,78
+95,98500,Tumwater,-74,-21
+96,99359,Starbuck,66,3
+97,99151,Marcus,66,39
+98,98481,Tacoma,-8,-24
+99,98434,Tacoma,-34,9
+100,98344,Kapowsin,-30,-15
+101,98062,Seahurst,-6,-9
+102,98324,Carlsborg,-6,21
+103,98155,Seattle,-44,42
+104,99032,Sprague,70,9
+105,98034,Kirkland,-30,33
+106,98276,Nooksack,-28,84
+107,98632,Longview,-38,-45
+108,98393,Tracyton,-48,18
+109,98359,Olalla,-42,-3
+110,99209,Spokane,76,12
+111,98322,Burley,-56,24
+112,99403,Clarkston,82,-21
+113,99009,Elk,90,21
+114,98651,Underwood,-14,-33
+115,98485,South Prairie,-20,-12
+116,98343,Joyce,-8,24
+117,98610,Carson,-22,-33
+118,98057,Renton,-6,3
+119,99176,Thornton,80,0
+120,98939,Parker,34,-9
+121,98389,South Prairie,-18,-15
+122,99201,Spokane,96,12
+123,98502,Olympia,-72,-12
+124,99169,Ritzville,62,9
+125,98584,Shelton,-64,6
+126,98589,Tenino,-70,-27
+127,98206,Everett,-44,54
+128,98270,Marysville,-34,69
+129,98365,Port Ludlow,-18,21
+130,98339,Port Hadlock,-10,21
+131,98264,Lynden,-32,90
+132,98930,Grandview,28,-18
+133,99343,Mesa,52,0
+134,98314,Bremerton,-50,15
+135,99001,Airway Heights,84,12
+136,99150,Malo,56,30
+137,99165,Pullman,78,-3
+138,98195,Seattle,2,-3
+139,98158,Seattle,10,3
+140,98323,Carbonado,-14,-15
+141,98126,Seattle,-24,30
+142,98326,Clallam Bay,-78,15
+143,99107,Boyds,62,33
+144,98103,Seattle,-36,36
+145,98645,Silverlake,-36,-36
+146,98822,Entiat,28,18
+147,99134,Harrington,68,12
+148,99036,Valleyford,98,15
+149,98205,Everett,-32,66
+150,98901,Yakima,30,-3
+151,98345,Keyport,-38,9
+152,99217,Spokane,100,12
+153,98112,Seattle,-36,30
+154,98059,Renton,-18,9
+155,98520,Aberdeen,-78,3
+156,98198,Seattle,-28,12
+157,98005,Bellevue,-28,24
+158,98460,Tacoma,-14,-21
+159,98321,Buckley,-18,-9
+160,98053,Redmond,-20,24
+161,99025,Newman Lake,116,12
+162,99341,Lind,60,6
+163,98236,Clinton,-42,63
+164,99103,Almira,56,12
+165,98542,Ethel,-32,-30
+166,98203,Everett,-36,60
+167,98297,Waldron,-60,84
+168,98303,Anderson Island,-60,-24
+169,99335,Kahlotus,62,3
+170,99302,Pasco,48,-12
+171,98060,Seattle,0,12
+172,98950,Vantage,36,0
+173,98942,Selah,38,-3
+174,98349,Lakebay,-52,6
+175,98590,Tokeland,-100,-42
+176,98052,Redmond,-22,27
+177,98612,Cathlamet,-72,-48
+178,98286,Shaw Island,-56,78
+179,98295,Sumas,-24,90
+180,98569,Ocean Shores,-104,-36
+181,99114,Colville,66,45
+182,98312,Bremerton,-52,18
+183,98490,Tacoma,-36,-18
+184,98353,Manchester,-42,3
+185,98532,Chehalis,-74,-39
+186,98860,Wilson Creek,52,12
+187,98546,Grapeview,-58,9
+188,98823,Ephrata,42,9
+189,98620,Goldendale,-12,-42
+190,98840,Okanogan,44,24
+191,98667,Vancouver,-22,-63
+192,98566,Neilton,-72,6
+193,98674,Woodland,-30,-51
+194,98054,Redondo,-4,-6
+195,98663,Vancouver,-20,-66
+196,98609,Carrolls,-34,-45
+197,98907,Yakima,34,-3
+198,98499,Lakewood,-48,-24
+199,99012,Fairfield,86,-9
+200,98639,North Bonneville,-26,-39
+201,98385,South Prairie,-22,-9
+202,98338,Graham,-36,-12
+203,98261,Lopez Island,-48,78
+204,98813,Bridgeport,42,15
+205,98201,Everett,-36,66
+206,99223,Spokane,96,18
+207,99127,Saint John,74,-3
+208,98232,Bow,-36,78
+209,98118,Seattle,-34,21
+210,98468,Oakville,-80,-30
+211,98477,Tacoma,-28,6
+212,98102,Seattle,-44,36
+213,98039,Medina,-32,30
+214,98819,Conconully,40,24
+215,98398,Paradise Inn,-26,-3
+216,99215,Spokane,92,6
+217,99154,Mohler,66,9
+218,99040,Wellpinit,70,27
+219,98595,Westport,-102,-39
+220,98117,Seattle,-40,18
+221,98513,Olympia,-66,-21
+222,98148,Seattle,-30,15
+223,98119,Seattle,-34,27
+224,99037,Veradale,110,3
+225,98851,Soap Lake,46,9
+226,98394,Vaughn,-54,9
+227,98811,Ardenvoir,26,15
+228,98579,Rochester,-78,-33
+229,99122,Davenport,66,15
+230,98199,Seattle,-44,18
+231,98190,Seattle,2,9
+232,99141,Kettle Falls,64,36
+233,98004,Bellevue,-30,27
+234,98177,Seattle,-42,45
+235,98682,Vancouver,-22,-75
+236,99326,Connell,54,3
+237,98539,Doty,-84,-36
+238,99155,Nespelem,58,27
+239,98614,Chinook,-96,-54
+240,98586,South Bend,-98,-45
+241,99208,Spokane,90,9
+242,99156,Newport,92,24
+243,98376,Quilcene,-58,33
+244,98357,Neah Bay,-78,21
+245,98280,Orcas,-54,81
+246,98684,Vancouver,-20,-78
+247,99124,Elmer City,62,27
+248,98023,Federal Way,-30,-9
+249,98821,Dryden,26,9
+250,99123,Electric City,56,18
+251,99149,Malden,78,3
+252,98415,Tacoma,-30,3
+253,98390,Sumner,-22,-15
+254,99158,Oakesdale,84,0
+255,99319,Desert Aire,42,-3
+256,98223,Arlington,-28,72
+257,98070,Vashon,-36,-6
+258,99115,Coulee City,48,12
+259,98555,Lilliwaup,-62,15
+260,98287,Silvana,-8,48
+261,99333,Hooper,76,0
+262,99344,Othello,50,3
+263,98903,Yakima,38,-9
+264,98072,Woodinville,-22,33
+265,98932,Granger,22,-9
+266,98003,Federal Way,-28,-6
+267,98271,Marysville,-36,72
+268,98207,Everett,-12,42
+269,99309,Mattawa,40,0
+270,98360,Orting,-36,6
+271,99129,Fruitland,68,30
+272,98471,Tacoma,-18,-27
+273,98807,Wenatchee,24,18
+274,99301,Pasco,46,-9
+275,99206,Spokane,106,3
+276,98244,Deming,-24,84
+277,98288,Skykomish,-6,27
+278,99202,Spokane,94,15
+279,98352,Sumner,-14,-9
+280,99185,Wilbur,58,15
+281,98208,Everett,-26,45
+282,98552,Humptulips,-74,9
+283,98377,Randle,-24,-30
+284,98384,South Colby,-40,0
+285,98382,Sequim,-14,27
+286,98936,Moxee,28,0
+287,98115,Seattle,-40,36
+288,98328,Eatonville,-28,-18
+289,99322,Bickleton,20,-12
+290,98114,Seattle,4,12
+291,98020,Edmonds,-50,45
+292,98381,Sekiu,-76,18
+293,98844,Oroville,46,33
+294,98929,Goose Prairie,20,6
+295,98366,Port Orchard,-44,6
+296,98647,Skamokawa,-74,-51
+297,98320,Brinnon,-62,21
+298,98638,Naselle,-94,-51
+299,99207,Spokane,94,9
+300,98175,Seattle,-44,24
+301,98227,Bellingham,-22,81
+302,98585,Silver Creek,-34,-21
+303,98105,Seattle,-38,33
+304,98587,Taholah,-88,18
+305,98424,Tacoma,-32,0
+306,99125,Endicott,74,3
+307,98662,Vancouver,-24,-78
+308,98541,Elma,-70,3
+309,99167,Rice,68,42
+310,98166,Seattle,-32,18
+311,98522,Adna,-86,-39
+312,99174,Steptoe,80,-6
+313,98332,Gig Harbor,-46,3
+314,99031,Spangle,86,3
+315,98058,Renton,-20,6
+316,98431,Tacoma,-10,-9
+317,98032,Kent,-26,9
+318,98401,Tacoma,-38,-15
+319,98849,Riverside,46,27
+320,98464,Tacoma,-12,-24
+321,98164,Seattle,-46,21
+322,98325,Chimacum,-16,18
+323,98161,Seattle,-2,-3
+324,98220,Acme,-38,87
+325,98846,Pateros,38,15
+326,98683,Vancouver,-22,-81
+327,98826,Leavenworth,22,15
+328,98547,Grayland,-104,-42
+329,98642,Ridgefield,-30,-57
+330,99323,Burbank,50,-15
+331,98050,Preston,-14,15
+332,99349,Mattawa,44,0
+333,98828,Malaga,36,6
+334,99332,Hatton,58,3
+335,98537,Cosmopolis,-76,0
+336,98239,Coupeville,-52,66
+337,98564,Mossyrock,-34,-27
+338,99139,Ione,68,48
+339,98617,Dallesport,-18,-45
+340,99402,Asotin,78,-15
+341,98071,Auburn,0,6
+342,98249,Freeland,-46,63
+343,98408,Tacoma,-38,-27
+344,98447,Tacoma,-20,-6
+345,98802,East Wenatchee,34,9
+346,98836,Monitor,30,9
+347,98664,Vancouver,-26,-81
+348,99320,Benton City,32,-18
+349,98010,Black Diamond,-18,-3
+350,99133,Grand Coulee,58,21
+351,99348,Prescott,64,0
+352,99004,Cheney,80,6
+353,98847,Peshastin,24,12
+354,99251,Spokane,96,0
+355,99212,Spokane,102,9
+356,98358,Nordland,-50,63
+357,98829,Malott,42,21
+358,98374,Puyallup,-38,-9
+359,99360,Touchet,50,-21
+360,98007,Bellevue,-26,21
+361,98467,University Place,-50,-21
+362,98002,Auburn,-24,-6
+363,98226,Bellingham,-30,81
+364,98006,Bellevue,-26,15
+365,98329,Gig Harbor,-52,12
+366,99219,Spokane,100,0
+367,98405,Tacoma,-42,-15
+368,98107,Seattle,-42,21
+369,99006,Deer Park,86,15
+370,99338,Kennewick,40,-18
+371,99252,Spokane,90,3
+372,98396,Wilkeson,-16,-12
+373,99354,Richland,36,-12
+374,98109,Seattle,-34,33
+375,98290,Snohomish,-16,42
+376,98650,Trout Lake,-20,-30
+377,99346,Plymouth,34,-21
+378,98637,Nahcotta,-96,-48
+379,98386,Southworth,-38,-3
+380,98635,Lyle,-20,-42
+381,98138,Seattle,4,6
+382,98110,Bainbridge Island,-40,6
+383,98351,Longbranch,-54,3
+384,98817,Chelan Falls,32,12
+385,99014,Four Lakes,82,9
+386,98816,Chelan,34,15
+387,98012,Bothell,-28,42
+388,98562,Moclips,-86,15
+389,98089,Kent,-24,6
+390,98853,Stratford,50,9
+391,98373,Puyallup,-40,-6
+392,98310,Bremerton,-46,9
+393,99117,Creston,60,18
+394,99026,Nine Mile Falls,82,15
+395,98009,Bellevue,-4,6
+396,98815,Cashmere,28,12
+397,99126,Evans,64,42
+398,98346,Kingston,-38,15
+399,98331,Forks,-78,9
+400,99356,Roosevelt,18,-15
+401,99111,Colfax,82,-3
+402,98571,Pacific Beach,-84,12
+403,99327,Cunningham,56,6
+404,98444,Tacoma,-50,3
+405,98858,Waterville,36,12
+406,98952,White Swan,28,-12
+407,98380,Seabeck,-60,18
+408,98494,Tacoma,-10,-21
+409,98064,Kent,8,0
+410,98944,Sunnyside,26,-15
+411,98850,Rock Island,38,9
+412,99017,Lamont,74,9
+413,98028,Kenmore,-34,39
+414,99152,Metaline,70,51
+415,98591,Toledo,-34,-33
+416,98045,North Bend,14,15
+417,98181,Seattle,10,9
+418,98430,Camp Murray,-16,-24
+419,98841,Omak,48,24
+420,98074,Sammamish,-22,21
+421,98383,Silverdale,-54,21
+422,98185,Seattle,8,6
+423,98292,Stanwood,-44,72
+424,98371,Puyallup,-34,-3
+425,99144,Lamona,64,12
+426,98923,Cowiche,28,-6
+427,98104,Seattle,-40,24
+428,98582,Salkum,-40,-24
+429,98293,Startup,-12,36
+430,98505,Olympia,-74,-15
+431,98812,Brewster,40,18
+432,99121,Danville,56,36
+433,98229,Bellingham,-34,81
+434,98284,Sedro Woolley,-36,84
+435,98237,Concrete,-6,57
+436,99138,Inchelium,66,33
+437,98509,Lacey,-64,-24
+438,98388,Steilacoom,-56,-24
+439,98631,Long Beach,-108,-54
+440,98031,Kent,-22,3
+441,98122,Seattle,-38,27
+442,98580,Roy,-50,-3
+443,98278,Oak Harbor,-52,72
+444,98246,Bow,0,60
+445,99321,Beverly,38,3
+446,98146,Seattle,-30,21
+447,98607,Camas,-18,-81
+448,99345,Paterson,32,-24
+449,99023,Mica,112,0
+450,98370,Poulsbo,-36,12
+451,99173,Springdale,78,21
+452,98530,Bucoda,-72,-30
+453,98356,Morton,-28,-24
+454,99143,Lacrosse,72,6
+455,98935,Mabton,24,-18
+456,98938,Outlook,24,-12
+457,98001,Auburn,-26,-9
+458,99005,Colbert,90,15
+459,98623,Husum,-16,-30
+460,98925,Easton,18,9
+461,98035,Kent,-4,0
+462,98575,Quinault,-70,9
+463,98367,Port Orchard,-44,12
+464,99328,Dayton,56,-18
+465,98041,Bothell,12,0
+466,99148,Loon Lake,82,21
+467,98337,Bremerton,-48,12
+468,98526,Amanda Park,-76,6
+469,98348,La Grande,-10,-15
+470,98524,Allyn,-56,12
+471,99224,Spokane,86,9
+472,98412,Tacoma,-12,-6
+473,98653,Lyle,-22,-39
+474,99352,Richland,38,-15
+475,98417,Tacoma,-46,-9
+476,98407,Tacoma,-48,-6
+477,99015,Freeman,88,0
+478,98392,Suquamish,-42,15
+479,98611,Castle Rock,-38,-39
+480,98355,Mineral,-26,-27
+481,99110,Clayton,84,18
+482,99022,Medical Lake,78,9
+483,98572,Pe Ell,-88,-42
+484,98933,Harrah,30,-15
+485,98493,Tacoma,-32,12
+486,98144,Seattle,-36,24
+487,98397,Longmire,-28,0
+488,98258,Lake Stevens,-30,69
+489,99218,Spokane,92,12
+490,98273,Mount Vernon,-40,72
+491,98581,Ryderwood,-70,-45
+492,99130,Garfield,88,-6
+493,98902,Yakima,32,-6
+494,98576,Rainier,-58,-33
+495,98111,Seattle,12,-6
+496,99204,Spokane,92,0
+497,98531,Centralia,-74,-33
+498,98448,Parkland,-48,0
+499,98503,Lacey,-68,-18
+500,98859,Wauconda,50,33
+501,99160,Orient,60,30
+502,98194,Seattle,-46,27
+503,98504,Olympia,-60,-30
+504,99034,Tumtum,78,15
+505,99131,Gifford,70,39
+506,99159,Odessa,58,9
+507,98909,Yakima,24,0
+508,98305,Beaver,-76,12
+509,98446,Tacoma,-44,-6
+510,98583,Satsop,-72,0
+511,98013,Burton,-2,3
+512,98213,Everett,-34,63
+513,98535,Copalis Beach,-84,6
+514,98311,Bremerton,-46,15
+515,99171,Saint John,76,6
+516,98021,Bothell,-30,39
+517,98409,Tacoma,-40,-30
+518,98528,Belfair,-58,15
+519,98139,Seattle,-42,27
+520,99214,Spokane,98,3
+521,98548,Hoodsport,-64,12
+522,98403,Tacoma,-40,-12
+523,98125,Seattle,-42,39
+524,98443,Tacoma,-34,3
+525,98015,Bellevue,10,-3
+526,98814,Carlton,34,21
+527,98315,Silverdale,-56,30
+528,98648,Stevenson,-24,-36
+529,98046,Lynnwood,-6,51
+530,98350,La Push,-80,12
+531,98628,Klickitat,-16,-42
+532,98855,Tonasket,48,30
+533,99260,Spokane,92,-6
+534,98272,Monroe,-16,30
+535,99033,Tekoa,90,-15
+536,98604,Battle Ground,-22,-69
+537,98640,Ocean Park,-106,-51
+538,98833,Mazama,24,24
+539,98087,Lynnwood,-40,54
+540,98507,Olympia,-66,-33
+541,98362,Port Angeles,-12,30
+542,99170,Rosalia,82,3
+543,99147,Lincoln,62,15
+544,99181,Valley,80,24
+545,98375,Puyallup,-42,-9
+546,98516,Olympia,-56,0
+547,98336,Glenoma,-30,-27
+548,98259,North Lakewood,-10,45
+549,99220,Spokane,96,-6
+550,98843,Orondo,30,15
+551,98245,Eastsound,-56,84
+552,98536,Copalis Crossing,-82,9
+553,98257,La Conner,-44,78
+554,98391,Bonney Lake,-20,-18
+555,99153,Metaline Falls,72,48
+556,98083,Kirkland,0,-6
+557,98624,Ilwaco,-106,-57
+558,98862,Winthrop,26,21
+559,98121,Seattle,-40,30
+560,98953,Zillah,24,-6
+561,99164,Pullman,76,-6
+562,98568,Oakville,-82,-33
+563,98075,Sammamish,-20,18
+564,98255,Hamilton,-32,84
+565,98387,Spanaway,-44,0
+566,98832,Marlin,54,9
+567,98937,Naches,22,3
+568,99029,Reardan,74,15
+569,98668,Vancouver,-26,-57
+570,99020,Marshall,84,6
+571,98024,Fall City,-12,18
+572,98512,Olympia,-76,-24
+573,99066,Deer Park,88,12
+574,98262,Lummi Island,-50,87
+575,98067,Bellevue,-24,24
+576,98250,Friday Harbor,-58,75
+577,98613,Centerville,-14,-45
+578,99118,Curlew,54,33
+579,98124,Seattle,2,15
+580,99039,Waverly,84,-6
+581,98132,Seattle,-6,-3
+582,98040,Mercer Island,-32,24
+583,98416,Tacoma,-44,-12
+584,99350,Prosser,30,-21
+585,98685,Vancouver,-30,-63
+586,98231,Blaine,-24,78
+587,98940,Ronald,20,12
+588,98235,Clearlake,-38,81
+589,98230,Blaine,-52,96
+590,98845,Palisades,40,12
+591,99299,Spokane,94,-3
+592,98251,Gold Bar,-10,33
+593,98296,Snohomish,-20,36
+594,98402,Tacoma,-38,-21
+595,98666,Vancouver,-26,-69
+596,98421,Tacoma,-34,-15
+597,98281,Point Roberts,-62,87
+598,98920,Brownstown,32,-12
+599,98616,Cougar,-30,-39
+600,98671,Washougal,-16,-84
+601,98204,Everett,-38,57
+602,99030,Rockford,86,-15
+603,98670,Wahkiacus,-18,-39
+604,99361,Waitsburg,54,-21
+605,98496,Lakewood,-50,-27
+606,98947,Tieton,26,-3
+607,99021,Mead,94,21
+608,99179,Uniontown,84,-18
+609,98113,Shoreline,-40,48
+610,98831,Manson,32,18
+611,98605,Bingen,-10,-33
+612,99211,Spokane,94,3
+613,98527,Bay Center,-102,-45
+614,98411,Tacoma,-12,-12
+615,98165,Seattle,-48,30
+616,98921,Buena,22,-3
+617,98082,Bothell,4,-6
+618,99228,Spokane,96,6
+619,98422,Tacoma,-32,-12
+620,99116,Coulee Dam,60,24
+621,99140,Keller,64,30
+622,98665,Vancouver,-28,-66
+623,98093,Federal Way,-20,0
+624,98438,Tacoma,-54,-27
+625,99166,Republic,52,30
+626,98941,Roslyn,22,9
+627,98904,Yakima,30,-9
+628,98563,Montesano,-74,3
+629,98256,Index,-6,33
+630,98101,Seattle,-42,33
+631,98030,Kent,-24,0
+632,98465,Tacoma,-50,-15
+633,98188,Seattle,-22,15
+634,98538,Curtis,-74,-45
+635,98160,Seattle,-6,-15
+636,98140,Seattle,-8,12
+637,98619,Glenwood,-18,-33
+638,98019,Duvall,-16,24
+639,98333,Fox Island,-50,9
+640,99146,Laurier,58,33
+641,98644,Seaview,-104,-54
+642,98544,Galvin,-76,-36
+643,98934,Kittitas,34,3
+644,98372,Puyallup,-32,-6
+645,98131,Seattle,6,-9
+646,98037,Lynnwood,-42,51
+647,99119,Cusick,86,27
+648,98508,Olympia,-62,-27
+649,99371,Washtucna,64,6
+650,98291,Snohomish,-18,39
+651,98277,Oak Harbor,-50,69
+652,98856,Twisp,32,24
+653,98008,Bellevue,-24,18
+654,99135,Hartline,54,15
+655,98294,Sultan,-14,33
+656,98406,Tacoma,-48,-12
+657,98340,Hansville,-38,3
+658,99205,Spokane,88,6
+659,98077,Woodinville,-20,30
+660,99329,Dixie,56,-24
+661,98686,Vancouver,-28,-60
+662,98560,Matlock,-68,6
+663,98129,Seattle,-8,0
+664,99347,Pomeroy,78,-9
+665,98221,Anacortes,-46,81
+666,98621,Grays River,-76,-48
+667,98625,Kalama,-32,-48
+668,98253,Greenbank,-48,66
+669,98445,Tacoma,-46,-3
+670,98558,Mckenna,-52,0
+671,98378,Retsil,-58,27
+672,99109,Chewelah,82,27
+673,98154,Seattle,-48,24
+674,98660,Vancouver,-26,-63
+675,98533,Cinebar,-30,-21
+676,98106,Seattle,-26,27
+677,99256,Spokane,90,-3
+678,98319,Duvall,-18,27
+679,98279,Olga,-52,84
+680,98363,Port Angeles,-10,27
+681,98606,Brush Prairie,-20,-72
+682,98283,Rockport,-4,60
+683,98675,Yacolt,-28,-48
+684,99105,Benge,68,6
+685,98626,Kelso,-36,-42
+686,98130,Seattle,-4,-12
+687,98622,Heisson,-24,-66
+688,98047,Pacific,-24,-12
+689,98731,Waller,-36,0
+690,99401,Anatone,80,-12
+691,98419,Tacoma,-36,-24
+692,98043,Mountlake Terrace,-46,45
+693,98150,Seattle,6,9
+694,98593,Vader,-72,-42
+695,98834,Methow,36,18
+696,98241,Darrington,-4,54
+697,98042,Kent,-18,3
+698,98151,Seattle,2,3
+699,99357,Royal City,44,6
+700,99018,Latah,88,-12
+701,98641,Oysterville,-104,-48
+702,98439,Lakewood,-52,-30
+703,99101,Addy,72,42
+704,98413,Tacoma,-32,6
+705,98330,Elbe,-26,-21
+706,98174,Seattle,-50,21
+707,98466,Tacoma,-52,-18
+708,98029,Issaquah,-18,15
+709,99013,Ford,76,18
+710,99027,Otis Orchards,114,9
+711,98073,Redmond,12,12
+712,98661,Vancouver,-18,-69
+713,98282,Camano,-46,69
+714,98327,Dupont,-58,-27
+715,98395,Wauna,-56,6
+716,98596,Winlock,-70,-39
+717,98672,White Salmon,-12,-30
+718,98565,Napavine,-72,-36
+719,98168,Seattle,-28,18
+720,98240,Custer,-50,93
+721,98055,Renton,-22,9
+722,98068,Snoqualmie Pass,16,12
+723,98247,Everson,-30,87
+724,98848,Quincy,40,6
+725,98601,Amboy,-30,-45
+726,98051,Ravensdale,-14,-3
+727,99324,College Place,52,-24
+728,98304,Ashford,-24,-24
+729,98643,Rosburg,-78,-51
+730,98559,Malone,-68,0
+731,98991,Roslyn,24,6
+732,98588,Tahuya,-60,12
+733,99363,Wallula,48,-18
+734,98557,Mccleary,-66,3
+735,98368,Port Townsend,-12,24
+736,99137,Hunters,68,36
+737,98501,Olympia,-72,-18
+738,98948,Toppenish,20,-6
+739,98946,Thorp,30,3
+740,98556,Littlerock,-76,-30
+741,98827,Loomis,42,27
+742,98801,Wenatchee,32,6
+743,99336,Kennewick,42,-15
+744,98026,Edmonds,-48,48
+745,99216,Spokane,108,6
+746,98673,Wishram,-12,-48
+747,98492,Lakewood,-14,-27
+748,98233,Burlington,-38,75
+749,99258,Spokane,98,9
+750,98141,Seattle,-44,30
+751,98570,Onalaska,-32,-24
+752,99210,Spokane,98,-3
+753,98922,Cle Elum,28,6
+754,99536,Kennewick,44,-12
